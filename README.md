@@ -31,12 +31,18 @@
 </p>
 
 <h3 align="left">GitHub Stats:</h3>
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Poohkao2026-beep&show_icons=true&theme=radical" alt="Poohkao's GitHub Stats" />
-</p>
+<table align="left">
+  <tr>
+    <td align="center">
+      <img src="https://github-readme-stats.vercel.app/api?username=Poohkao2026-beep&show_icons=true&theme=radical" alt="Poohkao's GitHub Stats" />
+    </td>
+    <td align="center">
+      <img src="https://media.giphy.com/media/WzLDljBpplUvm/giphy.gif" width="220" alt="Sunrise GIF" />
+    </td>
+  </tr>
+</table>
+<br clear="left"/>
+
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Poohkao2026-beep&layout=compact&theme=radical" alt="Top Languages" />
 </p>
-
-
-
