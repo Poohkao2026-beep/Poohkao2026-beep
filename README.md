@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Poohkao</h1>
 <h3 align="center">Tinkering with C++</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=poohkao2026-beep" alt="poohkao2026-beep" /></a> </p>
+
 
 - 📫 Reach me **poohkao2026@gmail.com**
 
