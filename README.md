@@ -4,7 +4,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=poohkao2026-beep" alt="poohkao2026-beep" /></a> </p>
 
-- 📫 How to reach me **poohkao2026@gmail.com**
+- 📫 Reach me **poohkao2026@gmail.com**
 
 - ⚡ Fun fact **Beyond code, I'd also like to play guitar**
 
