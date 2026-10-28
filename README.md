@@ -44,5 +44,5 @@
 <br clear="left"/>
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Poohkao2026-beep&layout=compact&theme=radical" alt="Top Languages" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Poohkao2026-beep&layout=compact&theme=radical&include_all_commits=true&cache_seconds=1800" alt="Top Languages" />
 </p>
