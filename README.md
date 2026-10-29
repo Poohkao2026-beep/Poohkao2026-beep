@@ -77,9 +77,11 @@ the solo: you practice one chord at a time. I'm applying the same mindset to pro
 ---
 
 ## 🌐 Connect With Me
-<a href="mailto:poohkao2026@gmail.com">
-   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-  </a>
+
+<a href="https://mail.google.com/mail/?view=cm&fs=1&to=poohkao2026@gmail.com" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+</a>
+
   <a href="https://instagram.com/surefr_w" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
