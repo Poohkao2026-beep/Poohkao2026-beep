@@ -92,6 +92,7 @@ the solo: you practice one chord at a time. I'm applying the same mindset to pro
 <p align="center">
   <a href="https://github.com/Poohkao2026-beep">
     <img src="https://github-stats-extended.vercel.app/api?username=Poohkao2026-beep" alt="Poohkao's GitHub stats" />
+    [![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=your-username)](https://github.com/stats-organization/github-stats-extended)
   </a>
 </p>
 
