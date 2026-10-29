@@ -89,10 +89,12 @@ the solo: you practice one chord at a time. I'm applying the same mindset to pro
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
   </a>
 </p>
-
 <p align="center">
-  <img src="https://github-readme-stats-download.vercel.app/api?username=Poohkao2026-beep&show_icons=true&theme=tokyonight&hide_border=true" width="48%" alt="GitHub Stats" />
-  <img src="https://github-readme-stats-download.vercel.app/api/top-langs/?username=Poohkao2026-beep&layout=compact&theme=tokyonight&hide_border=true" width="48%" alt="Top Languages" />
+  <a href="https://github.com/Poohkao2026-beep">
+    <img src="https://github-stats-extended.vercel.app/api?username=Poohkao2026-beep" alt="Poohkao's GitHub stats" />
+  </a>
+</p>
+
 </p>
 </p>
 <!-- Footer banner -->
