@@ -92,18 +92,7 @@ the solo: you practice one chord at a time. I'm applying the same mindset to pro
 
 ---
 
-## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Poohkao2026-beep&show_icons=true&hide_border=true&count_private=true&bg_color=0D1117&title_color=FF8C00&icon_color=FF8C00&text_color=C9D1D9" alt="Poohkao's GitHub Stats" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Poohkao2026-beep&layout=compact&hide_border=true&bg_color=0D1117&title_color=FF8C00&text_color=C9D1D9&include_all_commits=true&cache_seconds=1800" alt="Top Languages" height="170" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Poohkao2026-beep&hide_border=true&background=0D1117&ring=FF8C00&fire=FF4500&currStreakLabel=FF8C00&currStreakNum=C9D1D9&sideNums=C9D1D9&sideLabels=C9D1D9&dates=8B949E" alt="GitHub Streak" />
-</p>
-
-<p align="center"><i>"The best time to start was yesterday. The next best time is now." 🌅</i></p>
 
 <!-- Footer banner -->
 <p align="center">
