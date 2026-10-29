@@ -2,14 +2,10 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF8C00,100:FF4500&height=180&section=header&text=Hi%20%F0%9F%91%8B%2C%20I'm%20Poohkao&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38" alt="Header banner" />
 </p>
-<p align="center">
-  <img src="https://img.shields.io/badge/dynamic/json?color=FF8C00&style=for-the-badge&label=&query=%24.time&url=https%3A%2F%2Ftimeapi.io%2Fapi%2FTime%2Fcurrent%2Fzone%3FtimeZone%3DAmerica%2FLos_Angeles" alt="Cupertino Time" />
-</p>
-</p>
 
 <p align="center">
   <a href="https://github.com/Poohkao2026-beep">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=FF8C00&center=true&vCenter=true&width=560&lines=printf(%22Hello%2C+World!%22)%3B;Day+1+of+a+long+journey+%F0%9F%8C%85;Tinkering+with+C+%26+C%2B%2B;Writing+code+by+day%2C+guitar+riffs+by+night+%F0%9F%8E%B8" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=FF8C00&center=true&vCenter=true&width=560&lines=Everyday+Code;Everyday+is+a+fresh+start+%F0%9F%8C%85;Tinkering+with+C+%26+C%2B%2B;Writing+code+by+day%2C+guitar+riffs+by+night+%F0%9F%8E%B8" alt="Typing SVG" />
   </a>
 </p>
 
@@ -96,10 +92,8 @@ the solo: you practice one chord at a time. I'm applying the same mindset to pro
 
 ---
 
-
-
 <!-- Footer banner -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF8C00,100:FF4500&height=100&section=footer" alt="Footer banner" />
-</p> 
+</p>
 
