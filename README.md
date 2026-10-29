@@ -33,7 +33,7 @@
 
 ---
 
-## 💻 whoami
+## 💻 My day
 
 ```c
 #include <stdio.h>
