@@ -2,6 +2,10 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF8C00,100:FF4500&height=180&section=header&text=Hi%20%F0%9F%91%8B%2C%20I'm%20Poohkao&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38" alt="Header banner" />
 </p>
+<div align="center">
+  <!-- Example using a dynamic time/stats badge or custom markdown banner -->
+  <img src="https://komarev.com/ghpvc/?username=Poohkao2026-beep&style=flat-square&color=blue" alt="Profile views" />
+</div>
 
 <p align="center">
   <a href="https://github.com/Poohkao2026-beep">
