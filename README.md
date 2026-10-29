@@ -3,7 +3,8 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF8C00,100:FF4500&height=180&section=header&text=Hi%20%F0%9F%91%8B%2C%20I'm%20Poohkao&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38" alt="Header banner" />
 </p>
 <p align="center">
-  <img src="https://clock-svg.vercel.app/api?timezone=America/Los_Angeles&color=FF8C00" alt="Cupertino Live Time" />
+  <img src="https://img.shields.io/badge/dynamic/json?color=FF8C00&style=for-the-badge&label=&query=%24.time&url=https%3A%2F%2Ftimeapi.io%2Fapi%2FTime%2Fcurrent%2Fzone%3FtimeZone%3DAmerica%2FLos_Angeles" alt="Cupertino Time" />
+</p>
 </p>
 
 <p align="center">
