@@ -90,7 +90,10 @@ the solo: you practice one chord at a time. I'm applying the same mindset to pro
   </a>
 </p>
 
----
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Poohkao2026-beep&show_icons=true&theme=tokyonight" alt="Poohkao's GitHub Stats" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Poohkao2026-beep&layout=compact&theme=tokyonight" alt="Top Languages" width="49%" />
+</p>
 
 <!-- Footer banner -->
 <p align="center">
