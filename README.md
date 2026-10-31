@@ -23,11 +23,9 @@
       <b>I'm just getting started, and I'm proud of it. </b><br/><br/>
       Like a sunrise, I'm at the very beginning of something. I'm learning
       to build things close to the metal with <b>C</b> and <b>C++</b>, sharpening my
-      problem-solving on LeetCode
+      problem-solving on LeetCode.
       
-      When the screen goes dark, I pick up my 🎸 guitar. Code and music both
-      come down to practice, patience, and rhythm.
-    </td>
+     
   </tr>
 </table>
 
