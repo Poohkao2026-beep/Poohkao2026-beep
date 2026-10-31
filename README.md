@@ -33,17 +33,18 @@
 
 ---
 
-## 🚀 My Journey
+---
 
-- [x] Started coding and made my first GitHub profile 🌱
-- [ ] Master the fundamentals of **C** (pointers, memory, structs)
-- [ ] Get comfortable with **C++** (OOP, STL)
-- [ ] Solve my first 50 problems on LeetCode
-- [ ] Build my first small project in C or C++
-- [ ] Explore Python and TensorFlow
-- [ ] Learn MySQL and build something that stores data
+## 🚀 Active Roadmap & Focus
 
-> 📌 This checklist will grow as I do. Watch me tick the boxes!
+I’m currently focused on building strong software engineering fundamentals by working close to the metal and learning by doing:
+
+- **Systems Programming & C++20:** Designing low-level concurrent data structures, like [Main1PeakPulseOrogenyCore](https://github.com/Poohkao2026-beep/Main1PeakPulseOrogenyCore) (a lock-free MPMC ring buffer and telemetry engine).
+- **Core C Fundamentals:** Practicing manual memory management, raw pointers, and data structures.
+- **Problem Solving:** Sharpening daily algorithmic thinking and data structure concepts.
+- **Application Logic:** Balancing low-level code with practical tools, like [Daybreak-study-planner](https://github.com/Poohkao2026-beep/Daybreak-study-planner).
+
+---
 
 ---
 
