@@ -92,10 +92,10 @@ the solo: you practice one chord at a time. I'm applying the same mindset to pro
 <div align="center">
   <table border="0">
     <tr>
-      <td align="center" width="52%">
+      <td align="center" width="53%">
         <img src="https://github-stats-extended.vercel.app/api?username=Poohkao2026-beep&theme=tokyonight&hide_border=true&show_icons=true" alt="GitHub Stats" width="100%" />
       </td>
-      <td align="center" width="60%">
+      <td align="center" width="59%">
         <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Poohkao2026-beep&theme=tokyonight&hide_border=true&layout=compact" alt="Top Languages" width="100%" />
       </td>
     </tr>
