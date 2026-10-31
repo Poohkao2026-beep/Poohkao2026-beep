@@ -95,9 +95,7 @@ the solo: you practice one chord at a time. I'm applying the same mindset to pro
     <img src="https://github-stats-extended.vercel.app/api?username=Poohkao2026-beep&theme=tokyonight" alt="Poohkao's GitHub Stats" width="48%" />
   </a>
   <a href="https://github.com/stats-organization/github-stats-extended">
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Poohkao2026-beep&layout=compact&theme=tokyonight&langs_count=8" alt="Top Languages" width="48%" />
-</a>
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://github.com/copilot)
 </p>
 <!-- Footer banner -->
 <p align="center">
