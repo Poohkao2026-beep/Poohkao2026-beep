@@ -35,7 +35,7 @@
 
 ---
 
-## 🚀 Active Roadmap & Focus
+## 🚀 My Roadmap & Focus
 
 I’m currently focused on building strong software engineering fundamentals by working close to the metal and learning by doing:
 
