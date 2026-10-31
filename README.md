@@ -88,15 +88,19 @@ the solo: you practice one chord at a time. I'm applying the same mindset to pro
   <a href="https://www.leetcode.com/pearuch2005" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
   </a>
-<p align="center">
-  <a href="https://github.com/0stats-organization/github-stats-extended">
-    <img src="https://github-stats-extended.vercel.app/api?username=Poohkao2026-beep&theme=tokyonight" alt="Poohkao's GitHub Stats" width="45%" style="vertical-align: top;" />
-  </a>
-  <a href="https://github.com/0stats-organization/github-stats-extended">
-    <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Poohkao2026-beep&theme=tokyonight&layout=donut" alt="Top Languages" width="45%" style="vertical-align: top;" />
-  </a>
-</p>
 
+<div align="center">
+  <table border="0">
+    <tr>
+      <td align="center" width="52%">
+        <img src="https://github-stats-extended.vercel.app/api?username=Poohkao2026-beep&theme=tokyonight&hide_border=true&show_icons=true" alt="GitHub Stats" width="100%" />
+      </td>
+      <td align="center" width="60%">
+        <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Poohkao2026-beep&theme=tokyonight&hide_border=true&layout=compact" alt="Top Languages" width="100%" />
+      </td>
+    </tr>
+  </table>
+</div>
 
 <!-- Footer banner -->
 <p align="center">
