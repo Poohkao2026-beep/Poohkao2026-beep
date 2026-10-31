@@ -88,17 +88,16 @@ the solo: you practice one chord at a time. I'm applying the same mindset to pro
   <a href="https://www.leetcode.com/pearuch2005" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
   </a>
+<p align="center">
+  <a href="https://github.com/0stats-organization/github-stats-extended">
+    <img src="https://github-stats-extended.vercel.app/api?username=Poohkao2026-beep&theme=tokyonight" alt="Poohkao's GitHub Stats" width="45%" style="vertical-align: top;" />
+  </a>
+  <a href="https://github.com/0stats-organization/github-stats-extended">
+    <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Poohkao2026-beep&theme=tokyonight&layout=donut" alt="Top Languages" width="45%" style="vertical-align: top;" />
+  </a>
 </p>
 
-<p align="center">
-  <a href="https://github.com/stats-organization/github-stats-extended">
-    <img src="https://github-stats-extended.vercel.app/api?username=Poohkao2026-beep&theme=tokyonight" alt="Poohkao's GitHub Stats" width="48%" />
-  </a>
-<p align="center">
-  <a href="https://github.com/poohkao-beep/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Poohkao2026-beep&layout=compact&theme=tokyonight" alt="Top Languages" width="48%" />
-  </a>
-</p>
+
 <!-- Footer banner -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF8C00,100:FF4500&height=100&section=footer" alt="Footer banner" />
