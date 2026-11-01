@@ -80,6 +80,10 @@ the solo: you practice one chord at a time. I'm applying the same mindset to pro
 
   <a href="https://instagram.com/surefr_w" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  
+<a href="https://leetcode.com/u/OSKMOUNTAIN2027/" target="_blank">
+  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
+</a>
 
 
 <div align="center">
