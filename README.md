@@ -40,7 +40,7 @@ I’m currently focused on building strong software engineering fundamentals by 
 - **Systems Programming & C++20:** Designing low-level concurrent data structures, like [Main1PeakPulseOrogenyCore](https://github.com/Poohkao2026-beep/Main1PeakPulseOrogenyCore) (a lock-free MPMC ring buffer and telemetry engine).
 - **Core C Fundamentals:** Practicing manual memory management, raw pointers, and data structures.
 - **Problem Solving:** Sharpening daily algorithmic thinking and data structure concepts.
-- **Application Logic:** Balancing low-level code with practical tools, like [Daybreak-study-planner](https://github.com/Poohkao2026-beep/Daybreak-study-planner).
+- **Application Logic:** Balancing low-level code with creating practical tools, like [Daybreak-study-planner](https://github.com/Poohkao2026-beep/Daybreak-study-planner).
 
 ---
 
