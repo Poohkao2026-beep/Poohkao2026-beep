@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/hero.svg" alt="Poohkao. Calm interfaces. Local-first software." width="100%">
+<img src="assets/hero.svg" alt="HI. Calm interfaces. Local-first software." width="100%">
 
 <br>
 
