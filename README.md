@@ -17,13 +17,13 @@
 
 <br>
 
-<!--
-  VIDEO: record the 30s animatic (or export your final film), then drag the .mp4
-  into this README while editing on github.com. GitHub turns it into a
-  https://github.com/user-attachments/assets/... link. Paste that link on its own
-  line below, replacing the placeholder, and it will render as an inline player.
--->
-https://github.com/user-attachments/assets/REPLACE-WITH-YOUR-VIDEO-ID
+<div align="center">
+
+**[Watch the daybreak. film](assets/daybreak-film.mp4)**
+
+</div>
+
+<br>
 
 <div align="center">
 
@@ -85,7 +85,7 @@ Runs in the browser on IndexedDB. No account, private by default, works offline.
 
 ## Principles
 
-| | |
+| Principle | In practice |
 |---|---|
 | **Offline first** | Core workflows stay useful offline, and data recovery is straightforward. |
 | **Visible consent** | Consent and data boundaries are never hidden. |

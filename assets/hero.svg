@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 460" width="1200" height="460" role="img" aria-label="Poohkao. Calm interfaces, local-first software.">
+<style>
+svg{--bg:#F6F3EC;--ink:#1F1D1A;--mute:#6b665c;--pri:#3D6B58;--glow:#E6EEE7}
+@media (prefers-color-scheme:dark){svg{--bg:#121417;--ink:#EAE5DC;--mute:#9a958b;--pri:#6FA38D;--glow:#1A1D22}}
+text{font-family:-apple-system,"SF Pro Display","Inter","Helvetica Neue",Arial,sans-serif}
+.d{stroke-dasharray:1;stroke-dashoffset:1;animation:draw 1.3s cubic-bezier(.2,.7,.2,1) forwards}
+@keyframes draw{to{stroke-dashoffset:0}}
+.up{opacity:0;animation:up .9s cubic-bezier(.2,.7,.2,1) forwards}
+@keyframes up{from{opacity:0;transform:translateY(14px)}to{opacity:1;transform:none}}
+.halo{animation:breathe 6s ease-in-out infinite}
+@keyframes breathe{0%,100%{opacity:.55}50%{opacity:1}}
+@media (prefers-reduced-motion:reduce){.d,.up{animation-duration:.01s;animation-delay:0s!important}.halo{animation:none}}
+</style>
+<rect width="1200" height="460" fill="var(--bg)"/>
+<defs><radialGradient id="g" cx="50%" cy="100%" r="70%"><stop offset="0" stop-color="var(--glow)"/><stop offset="1" stop-color="var(--bg)" stop-opacity="0"/></radialGradient></defs>
+<rect class="halo" width="1200" height="460" fill="url(#g)"/>
+<g transform="translate(540 52) scale(1.2)"><g fill="none" stroke="var(--pri)" stroke-width="3.5" stroke-linecap="round">
+<circle class="d" style="animation-delay:.1s" cx="50" cy="38" r="13" pathLength="1"/>
+<path class="d" style="animation-delay:.5s" d="M50 14v-6M33 20l-4-5M67 20l4-5M24 33l-6-2" pathLength="1"/>
+<path class="d" style="animation-delay:.8s" d="M8 60Q50 46 94 60" pathLength="1"/>
+<path class="d" style="animation-delay:1s" d="M18 69Q54 58 86 68" pathLength="1"/>
+<path class="d" style="animation-delay:1.2s" d="M16 52C6 70 60 76 84 42" pathLength="1"/></g></g>
+<text class="up" style="animation-delay:.9s" x="600" y="228" text-anchor="middle" font-size="76" font-weight="700" letter-spacing="-2.5" fill="var(--ink)">Poohkao</text>
+<text class="up" style="animation-delay:1.2s" x="600" y="284" text-anchor="middle" font-size="30" font-weight="500" letter-spacing="-.5" fill="var(--ink)">Calm interfaces. Local-first software.</text>
+<text class="up" style="animation-delay:1.5s" x="600" y="330" text-anchor="middle" font-size="20" fill="var(--mute)">I build practical tools and learn by shipping.</text>
+</svg>
