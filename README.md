@@ -97,5 +97,17 @@ Runs in the browser on IndexedDB. No account, private by default, works offline.
 <div align="center">
 
 Away from the keyboard, I practice guitar: steady progress, one chord at a time.
+<div align="center">
+  <table border="0">
+    <tr>
+      <td align="center" width="53%">
+        <img src="https://github-stats-extended.vercel.app/api?username=Poohkao2026-beep&theme=tokyonight&hide_border=true&show_icons=true" alt="GitHub Stats" width="100%" />
+      </td>
+      <td align="center" width="59%">
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Poohkao2026-beep&theme=tokyonight&hide_border=true&layout=compact&exclude_lang=javascript,css,html" alt="Top Languages" width="100%" />
+      </td>
+    </tr>
+  </table>
+</div>
 
 </div>
