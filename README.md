@@ -98,7 +98,7 @@ Runs in the browser on IndexedDB. No account, private by default, works offline.
 
 <div align="center">
 
-Away from the keyboard, I practice guitar: steady progress, one chord at a time.
+Away from the keyboard/terminal, I practice guitar: steady progress, one chord at a time.
 <div align="center">
   <table border="0">
     <tr>
