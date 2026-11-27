@@ -1,6 +1,8 @@
 <div align="center">
 
 <img src="assets/hero.svg" alt="HI. Calm interfaces. Local-first software." width="100%">
+
+I’m Poohkao. I’m building a local-first study planner and learning how to make concurrent C++ code easier to test and reason about.
 <div align="center">
   <a href="https://daybreakproduct.vercel.app">Product website</a>
 </div>
@@ -29,7 +31,7 @@
 
 <div align="center">
 
-**[Try the planner](https://daybreak-study-planner.vercel.app/planner)**  ·  [Source](https://github.com/Poohkao2026-beep/Daybreak-study-planner)  ·  [Preview guide](https://github.com/Poohkao2026-beep/Daybreak-study-planner/blob/main/packages/planner-launcher/README.md)
+**[Try the planner](https://daybreak-study-planner.vercel.app/planner)**  ·  [Public launcher and Foundation source](https://github.com/Poohkao2026-beep/Daybreak-study-planner)  ·  [Preview guide](https://github.com/Poohkao2026-beep/Daybreak-study-planner/blob/main/packages/planner-launcher/README.md)
 
 </div>
 
@@ -62,7 +64,7 @@ Optional, consent-based AI study support. It explains and quizzes. It never writ
 </tr>
 </table>
 
-Runs in the browser on IndexedDB. No account, private by default, works offline. English and Thai.
+The guest planner stores data in your browser using IndexedDB. Daybreak supports English and Thai. Optional services have separate access requirements.
 
 <br>
 
@@ -80,7 +82,7 @@ Runs in the browser on IndexedDB. No account, private by default, works offline.
 </p>
 
 - **Fundamentals:** memory management and data structures.
-- **Systems:** [Main1PeakPulseOrogenyCore](https://github.com/Poohkao2026-beep/Main1PeakPulseOrogenyCore), a lock-free MPMC ring buffer and telemetry engine.
+- **Systems:** [Main1PeakPulseOrogenyCore](https://github.com/Poohkao2026-beep/Main1PeakPulseOrogenyCore), a bounded C++20 MPMC ring buffer with stress tests and a benchmark harness.
 - **Practice:** [LeetCode](https://leetcode.com/u/OSKMOUNTAIN2027/)
 
 <br>
