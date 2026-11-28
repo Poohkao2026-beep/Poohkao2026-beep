@@ -1,10 +1,10 @@
-<div align="center">
-
-<img src="assets/hero.svg" alt="HI. Calm interfaces. Local-first software." width="100%">
-<div align="center">
-  <a href="https://daybreakproduct.vercel.app">Product website</a>
-</div>
-<br>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/poohkao-logo-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="./assets/poohkao-logo-light.svg">
+    <img alt="poohkao.platforms logo" src="./assets/poohkao-logo.svg" width="360">
+  </picture>
+</p>
 
 [![Gmail](https://img.shields.io/badge/Gmail-3D6B58?style=flat-square&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=poohkao2026@gmail.com)
 [![LeetCode](https://img.shields.io/badge/LeetCode-3D6B58?style=flat-square&logo=leetcode&logoColor=white)](https://leetcode.com/u/OSKMOUNTAIN2027/)
@@ -15,6 +15,9 @@
 
 <div align="center">
 <img src="assets/daybreak.svg" alt="daybreak. A little more structure. A little less pressure." width="100%">
+</div>
+<div align="center">
+  <a href="https://daybreakproduct.vercel.app">Product website</a>
 </div>
 
 <br>
