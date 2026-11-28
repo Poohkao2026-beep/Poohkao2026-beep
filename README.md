@@ -1,14 +1,14 @@
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/poohkao-logo-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="./assets/poohkao-logo-light.svg">
-    <img alt="poohkao.platforms logo" src="assets/poohkao-logo.svg" width="360">
-  </picture>
-</p>
+<div align="center">
+  <img src="assets/poohkao-logo.svg" alt="poohkao.platforms logo" width="360">
 
-[![Gmail](https://img.shields.io/badge/Gmail-3D6B58?style=flat-square&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=poohkao2026@gmail.com)
-[![LeetCode](https://img.shields.io/badge/LeetCode-3D6B58?style=flat-square&logo=leetcode&logoColor=white)](https://leetcode.com/u/OSKMOUNTAIN2027/)
+  <br><br>
 
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=poohkao2026@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-3D6B58?style=flat-square&logo=gmail&logoColor=white" alt="Gmail">
+  </a>
+  <a href="https://leetcode.com/u/OSKMOUNTAIN2027/">
+    <img src="https://img.shields.io/badge/LeetCode-3D6B58?style=flat-square&logo=leetcode&logoColor=white" alt="LeetCode">
+  </a>
 </div>
 
 <br>
