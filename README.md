@@ -2,7 +2,7 @@
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="./assets/poohkao-logo-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="./assets/poohkao-logo-light.svg">
-    <img alt="poohkao.platforms logo" src="./assets/poohkao-logo.svg" width="360">
+    <img alt="poohkao.platforms logo" src="assets/poohkao-logo.svg" width="360">
   </picture>
 </p>
 
